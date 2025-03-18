@@ -1,7 +1,9 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  jupyter: 'binder'
+  jupyter:
+    binder:
+      repo: kflisikowsky/pandas_exercises # default repo
   id: c120b37b-ce8f-4a9a-90ab-957df9eaa531
   title: Data Wrangling & Cleansing
   description: A comprehensive guide on data wrangling and cleansing using Python and Pandas.
