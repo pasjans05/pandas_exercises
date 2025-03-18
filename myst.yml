@@ -3,7 +3,7 @@ version: 1
 project:
   id: c120b37b-ce8f-4a9a-90ab-957df9eaa531
   title: Data Wrangling & Cleansing
-  # description:
+  description: A comprehensive guide on data wrangling and cleansing using Python and Pandas.
   keywords: [python, pandas, data wrangling, data cleansing]
   authors: [Karol Flisikowski]
   github: https://github.com/kflisikowsky/pandas_exercises
@@ -18,6 +18,10 @@ project:
     
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    favicon: sad.ico
+    logo: sad.jpg
+    extra_footer: "© 2025 Karol Flisikowski. All rights reserved."
+    social:
+      twitter: Karol_Flisik
+      github: kflisikowsky
