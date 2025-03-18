@@ -24,7 +24,7 @@ project:
     - file: Exercise 3.ipynb
     - file: Exercise 4.ipynb
 site:
-  template: book-theme
+  template: article-theme
   options:
     favicon: sad.ico
     logo: sad.jpg
