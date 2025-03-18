@@ -3,6 +3,11 @@ version: 1
 project:
   jupyter:
     lite: true
+    binder:
+      url: https://mybinder.org
+      repo: kflisikowsky/pandas_exercises
+      ref: main
+      provider: github
   id: c120b37b-ce8f-4a9a-90ab-957df9eaa531
   title: Data Wrangling & Cleansing
   description: A comprehensive guide on data wrangling and cleansing using Python and Pandas.
