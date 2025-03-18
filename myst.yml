@@ -23,7 +23,6 @@ project:
     - file: Exercise 2.ipynb
     - file: Exercise 3.ipynb
     - file: Exercise 4.ipynb
-    
 site:
   template: book-theme
   options:
