@@ -23,6 +23,8 @@ project:
     - file: Exercise 2.ipynb
     - file: Exercise 3.ipynb
     - file: Exercise 4.ipynb
+      children:
+        - file: a_guide_to_na.ipynb
 site:
   template: book-theme
   options:
