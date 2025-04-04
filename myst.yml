@@ -25,6 +25,10 @@ project:
     - file: Exercise 4.ipynb
       children:
         - file: a_guide_to_na.ipynb
+    - file: Exercise5.ipynb
+    - file: Exercise6.ipynb
+      children:
+        - file: Exercise7.ipynb
 site:
   template: book-theme
   options:
