@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/titanic"
+		},
+		{
+			"path": "../../Downloads/archive"
+		}
+	],
+	"settings": {}
+}
