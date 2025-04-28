@@ -29,6 +29,7 @@ project:
     - file: Exercise6.ipynb
       children:
         - file: Exercise7.ipynb
+    - file: Exercise8.ipynb
 site:
   template: book-theme
   options:

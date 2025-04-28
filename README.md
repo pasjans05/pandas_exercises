@@ -1,3 +1,4 @@
+# Stanisław Kardaś & Jonasz Gościniak
 # Data Wrangling & Cleansing, Visualization and Analysis with Python
 
 ## To-do exercises
